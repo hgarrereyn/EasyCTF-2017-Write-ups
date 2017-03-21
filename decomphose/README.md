@@ -2,13 +2,13 @@
 
 Image arithmetic is super neat until there's more than two images involved.
 
-[file 1]()
+file 1
 
-[file 2]()
+file 2
 
-[file 3]()
+file 3
 
-[file 4]()
+file 4
 
 ### Solution
 
